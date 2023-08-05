@@ -10,21 +10,20 @@ h2{
     font-size: 180%;
     margin-left: 190px;
     margin-right: 190px;
-    color:rgba(169, 169, 169, 0.052)
+    color:black
 }
 h3{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 130%;
     margin-left: 190px;
     margin-right: 190px;
-    color:rgba(128, 128, 128, 0.114)
 }
 p{
     font-family:'Times New Roman', Times, serif;
     font-size: 115%;
     margin-left: 190px;
     margin-right: 190px;
-    color: rgba(128, 128, 128, 0.457)
+    color: black
 }
 table{
     border-spacing: 10px;
