@@ -10,14 +10,14 @@ h2{
     font-size: 180%;
     margin-left: 190px;
     margin-right: 190px;
-    color:rgba(74, 73, 73, 0.232)
+    color:black
 }
 h3{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 130%;
     margin-left: 190px;
     margin-right: 190px;
-    color:rgba(106, 105, 105, 0.232)
+    color:black
 }
 p{
     font-family:'Times New Roman', Times, serif;
@@ -30,7 +30,7 @@ table{
     border-spacing: 10px;
     margin-left: 220px;
     margin-right: 220px;
-    color:rgba(0, 0, 128, 0.487)
+    color:black
 }
 th, td {
     text-align: center;
