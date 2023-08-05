@@ -2,22 +2,22 @@
 h1{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 215%;
-    margin-left: 120px;
+    margin-left: 110px;
     color:black
 }
 h2{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 160%;
+    font-size: 180%;
     margin-left: 190px;
-    margin-right: 190px;
-    color:darkgray
+    margin-right: 110px;
+    color:rgba(169, 169, 169, 0.235)
 }
 h3{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 130%;
     margin-left: 190px;
-    margin-right: 190px;
-    color:gray
+    margin-right: 110px;
+    color:rgba(128, 128, 128, 0.285)
 }
 p{
     font-family:'Times New Roman', Times, serif;
@@ -47,7 +47,7 @@ li{
 }
 ul{
     margin-bottom: 50px;
-    color:navy
+    color:rgb(95, 8, 14)
 }
 #right{
     text-align: right;
