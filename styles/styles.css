@@ -1,12 +1,8 @@
-body, h1, h2, h3, p, ul, li, table {
-    margin: 0;
-    padding: 0;
-}
-
 body {
     font-family: 'Arial', sans-serif;
     background-color: #f5f5f5;
     color: #2c2c2c;
+    line-height: 1.6;
 }
 
 header {
@@ -18,12 +14,7 @@ header {
     margin-top: 10px;
 }
 
-#about {
-    font-size: 16px;
-    margin: 20px;
-}
-
-#educations, #projects, #experience, #skills {
+section {
     background-color: #f9e0f9;
     padding: 20px;
     margin: 20px;
@@ -31,11 +22,12 @@ header {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-.education, .project, .job, .skill-category {
+h2 {
+    font-size: 24px;
     margin-bottom: 20px;
 }
 
-.education h3, .project h3, .job h3, .skill-category h3 {
+h3 {
     font-size: 20px;
     margin-bottom: 10px;
 }
@@ -49,14 +41,13 @@ header {
     margin-top: 10px;
     text-decoration: none;
     color: #007bff;
+    transition: text-decoration 0.3s ease;
 }
 
 .project-link:hover {
     text-decoration: underline;
 }
 
-#skills p {
+p {
     margin-bottom: 10px;
 }
-
-/* Add more styles as needed */
