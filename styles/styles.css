@@ -88,7 +88,7 @@ header {
 }
 
 #footer {
-    background-color: #c4dff1;
+    background-color: #b2b2b2;
     color: #333; 
     text-align: center;
     padding: 10px;
@@ -98,4 +98,6 @@ header {
   
   #footer p {
     font-size: 14px;
+    font-style: italic;
+    color: #2c2c2c;
   }
