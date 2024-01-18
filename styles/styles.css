@@ -31,11 +31,11 @@ header {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-.project, .job, .skill-category {
+.education, .project, .job, .skill-category {
     margin-bottom: 20px;
 }
 
-.project h3, .job h3, .skill-category h3 {
+.education h3, .project h3, .job h3, .skill-category h3 {
     font-size: 20px;
     margin-bottom: 10px;
 }
