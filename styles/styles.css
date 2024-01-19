@@ -76,7 +76,14 @@ header {
 }
 
 .job-date {
+    float: right; 
     font-style: italic;
+}
+
+.job div {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: baseline; 
 }
 
 .project-link {
