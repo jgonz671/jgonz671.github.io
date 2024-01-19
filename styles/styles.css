@@ -126,3 +126,5 @@ header {
     font-style: italic;
     color: #2c2c2c;
   }
+
+  :root {scroll-behavior: smooth;}
